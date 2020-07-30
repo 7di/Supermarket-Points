@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 abcd31739e7eea97b46ff3a4d5a707ed868e9900 Zhaoyu <weixiaobo88@gmail.com> 1595857748 +0800	branch: Created from HEAD
+abcd31739e7eea97b46ff3a4d5a707ed868e9900 c71fa0d8a3287d5dc623890ee415321923fa87bc chang <1453749520@qq.com> 1596105529 +0800	commit: Delete the previous tax code,use It's framework,then finish the first needs of the supermarket-point task.
+c71fa0d8a3287d5dc623890ee415321923fa87bc 7c0590d38449161f2927a63d09c5f59c748543c7 chang <1453749520@qq.com> 1596105964 +0800	commit: Refine code for the first needs of supermarket-point
+7c0590d38449161f2927a63d09c5f59c748543c7 bbfcaebae33c4df4c672913413c5698b2e90c41c chang <1453749520@qq.com> 1596112077 +0800	commit: Refine code for the first needs of supermarket-point +1
